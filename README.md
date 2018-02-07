@@ -1,6 +1,6 @@
-# my-project
+# Vue.js ToDo List
 
-> A Vue.js project
+> A Vue.js project - ToDo List
 
 ## Build Setup
 
